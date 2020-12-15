@@ -487,6 +487,10 @@ header:after {
   margin-top: 2px;
   padding: 20px 0 19px; }
 
+  .logo{
+    width: 250px;
+  }
+
 /*-------------------- TOP PANEL --------------------*/
 .top-panel {
   padding: 5px 0; }
