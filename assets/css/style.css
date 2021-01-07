@@ -1936,6 +1936,9 @@ blockquote:before {
       color: #f23849; }
 
 /*-------------------- S-CROSSFIT --------------------*/
+.s-crossfit-padding{
+  padding: 60px 0 80px;
+}
 .s-crossfit {
   padding: 128px 0 140px; }
   .s-crossfit .container {
@@ -2112,6 +2115,8 @@ blockquote:before {
         margin-bottom: 22px; }
 
 /*-------------------- S-CLUB-CARDS --------------------*/
+
+.s-club-cards-padding{padding: 50px 0 100px;}
 .s-club-cards {
   padding: 128px 0 180px; }
   .s-club-cards.club-cards-fitness {
