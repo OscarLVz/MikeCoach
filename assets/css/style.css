@@ -2148,11 +2148,20 @@ blockquote:before {
   color:rgb(149, 197, 226);
 }
 
+.club-card-description{
+  margin-bottom: 25px;
+  margin-top: 5px;
+  text-align: center;
+}
+
+.text-red{
+  color: #f23849
+}
+
 .club-card-item {
   display: flex;
   flex-direction: column;
   align-items: center;
-  height: 100%;
   background-color: #272a31;
   box-shadow: 4px 4px 14px 0px rgba(0, 0, 0, 0.15);
   background-position: center;
@@ -2182,7 +2191,8 @@ blockquote:before {
     font-family: "Righteous", sans-serif;
     text-transform: uppercase;
     position: relative;
-    padding-bottom: 22px; }
+    padding-bottom: 22px; 
+    margin-bottom: 22px;}
     .club-card-item .price-cover:before {
       content: '';
       position: absolute;
@@ -2208,7 +2218,7 @@ blockquote:before {
   .club-card-item .list {
     width: 100%;
     text-align: center;
-    padding: 20px 0 42px; }
+    padding: 0px 0 42px; }
     .club-card-item .list li {
       border-bottom: 1px solid #474747;
       padding: 11px 0; }
