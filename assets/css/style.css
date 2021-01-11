@@ -2136,6 +2136,18 @@ blockquote:before {
   .club-card-col:nth-child(2) {
     transform: translateY(0); }
 
+.silver{
+    color:rgb(141, 141, 141);
+}
+
+.gold{
+  color:rgb(212, 192, 13);
+}
+
+.platinum{
+  color:rgb(149, 197, 226);
+}
+
 .club-card-item {
   display: flex;
   flex-direction: column;
