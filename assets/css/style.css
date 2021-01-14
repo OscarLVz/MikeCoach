@@ -978,6 +978,7 @@ footer {
     margin-right: 18px; }
 
 .footer-item-logo .logo-footer {
+  max-width: 230px;
   display: inline-block;
   margin-bottom: 16px; }
 .footer-item-logo p {
