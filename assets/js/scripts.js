@@ -198,7 +198,7 @@
 			touchThreshold: 200,
 			cssEase: 'cubic-bezier(0.7, 0, 0.3, 1)',
 			autoplay: true,
-			autoplaySpeed: 4500,
+			autoplaySpeed: 8500,
 		});
 	}
 
